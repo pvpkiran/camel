@@ -1,4 +1,4 @@
-package in.phani.springboot.camel.config;
+package in.phani.springboot.camel.service;
 
 import org.apache.camel.Exchange;
 import org.springframework.stereotype.Component;
